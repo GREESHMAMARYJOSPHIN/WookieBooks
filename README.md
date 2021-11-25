@@ -38,5 +38,5 @@ To implement a bookstore REST API using C# and .NET Core.
     **2.** Run using IIS Express 
     **3.** Swagger will open in the browser URL: https://localhost:58252/swagger/index.html OR you may check with Postman 
     
-    You can find logs in bin folder. Logs are being logged in INFO level.
+    You can find logs in bin folder. Logs are being logged at INFO level.
 

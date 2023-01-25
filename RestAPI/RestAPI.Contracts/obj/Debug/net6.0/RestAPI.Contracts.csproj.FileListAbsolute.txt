@@ -1,0 +1,12 @@
+D:\Self-Study\RestAPI\RestAPI.Contracts\bin\Debug\net6.0\RestAPI.Contracts.deps.json
+D:\Self-Study\RestAPI\RestAPI.Contracts\bin\Debug\net6.0\RestAPI.Contracts.dll
+D:\Self-Study\RestAPI\RestAPI.Contracts\bin\Debug\net6.0\RestAPI.Contracts.pdb
+D:\Self-Study\RestAPI\RestAPI.Contracts\obj\Debug\net6.0\RestAPI.Contracts.csproj.AssemblyReference.cache
+D:\Self-Study\RestAPI\RestAPI.Contracts\obj\Debug\net6.0\RestAPI.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self-Study\RestAPI\RestAPI.Contracts\obj\Debug\net6.0\RestAPI.Contracts.AssemblyInfoInputs.cache
+D:\Self-Study\RestAPI\RestAPI.Contracts\obj\Debug\net6.0\RestAPI.Contracts.AssemblyInfo.cs
+D:\Self-Study\RestAPI\RestAPI.Contracts\obj\Debug\net6.0\RestAPI.Contracts.csproj.CoreCompileInputs.cache
+D:\Self-Study\RestAPI\RestAPI.Contracts\obj\Debug\net6.0\RestAPI.Contracts.dll
+D:\Self-Study\RestAPI\RestAPI.Contracts\obj\Debug\net6.0\refint\RestAPI.Contracts.dll
+D:\Self-Study\RestAPI\RestAPI.Contracts\obj\Debug\net6.0\RestAPI.Contracts.pdb
+D:\Self-Study\RestAPI\RestAPI.Contracts\obj\Debug\net6.0\ref\RestAPI.Contracts.dll

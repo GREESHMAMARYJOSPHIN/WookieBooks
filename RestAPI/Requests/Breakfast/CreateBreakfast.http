@@ -1,0 +1,18 @@
+POST https://localhost:7226/Breakfast
+
+Content-Type: "application/json"
+
+{
+    "name" : "sample",
+    "description" : "description",
+    "startdatetime" : "2023-01-02T08:00:00",
+    "enddatetime" : "2023-01-10T11:00:00",
+    "savory" : {
+        "Oatmeal",
+        "Cereal",
+        "Bread"
+    },
+    "sweet" : {
+        "cookies"
+    }
+}

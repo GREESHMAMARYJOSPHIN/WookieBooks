@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RestAPI/1.0.0": {
+        "dependencies": {
+          "RestAPI.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "RestAPI.dll": {}
+        }
+      },
+      "RestAPI.Contracts/1.0.0": {
+        "runtime": {
+          "RestAPI.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestAPI.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
